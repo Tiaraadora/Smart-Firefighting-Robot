@@ -15,9 +15,21 @@ This project contains the Arduino/ESP32 code for an autonomous smart firefightin
 - **Microcontroller**: ESP32
 - **Sensors**: 3x Flame Sensors (Analog)
 - **Actuators**:
-  - 2x DC Motors (connected via a motor driver, e.g., L298N)
-  - 1x Servo Motor (for sweeping the water nozzle)
-  - 1x Water Pump (controlled via a relay module)
+  - L298N Motor Driver
+  - Acrylic Car Chassis (Includes 2x DC Motors)
+  - Servo Motor
+  - Water Pump
+  - 5V Single-Channel Relay Module
+- **Power System**:
+  - Lithium-Ion Battery
+  - Dual Battery Holder with Switch
+  - Single Battery Holder
+- **Prototyping & Assembly**:
+  - Mini Breadboard
+  - Jumper Wires
+  - Electric Soldering Iron
+  - Solder Wire
+  - Screwdriver
 
 ## Pin Configuration
 
