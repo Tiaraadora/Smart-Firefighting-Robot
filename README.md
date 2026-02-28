@@ -1,5 +1,5 @@
 # Smart Firefighting Robot
-<img src="PrototypeHasil.png" alt="alt text" width="500">
+<img src="PrototypeHasil.jpg" alt="alt text" width="500">
 
 This project contains the Arduino/ESP32 code for an autonomous smart firefighting robot. The robot is equipped with flame sensors to detect fire, DC motors to navigate towards the fire, and a water pump mounted on a servo motor to extinguish the fire.
 
