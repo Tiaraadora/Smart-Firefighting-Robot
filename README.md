@@ -30,6 +30,8 @@ This project contains the Arduino/ESP32 code for an autonomous smart firefightin
   - Electric Soldering Iron
   - Solder Wire
   - Screwdriver
+## Wiring Diagram ##
+<img src="FireFighterDiagram.png" alt="alt text" width="500">
 
 ## Pin Configuration
 
